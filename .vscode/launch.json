@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Flutter",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--target",
+        "lib/main.dart"
+      ]
+    }
+  ]
+}
