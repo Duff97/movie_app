@@ -1,4 +1,4 @@
-import 'package:movie_app/domain/entities/movie.entity.dart';
+import 'package:movie_app/domain/entities/movie.dart';
 
 abstract class MovieRepository {
   Future<List<Movie>> getTrendingMovies();

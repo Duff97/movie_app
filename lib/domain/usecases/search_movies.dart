@@ -1,5 +1,5 @@
-import 'package:movie_app/domain/entities/movie.entity.dart';
-import 'package:movie_app/domain/repositories/movie.repository.dart';
+import 'package:movie_app/domain/entities/movie.dart';
+import 'package:movie_app/domain/repositories/movie_repository.dart';
 
 class SearchMovies {
   final MovieRepository movieRepository;
